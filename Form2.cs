@@ -54,9 +54,9 @@ namespace WindowsFormsApp4
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Form8 frm8 = new Form8();
+            Form35 frm35 = new Form35();
             this.Hide();
-            frm8.Show();
+            frm35.Show();
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -138,9 +138,9 @@ namespace WindowsFormsApp4
 
         private void button20_Click(object sender, EventArgs e)
         {
-            Form20 frm20 = new Form20();
+            Form33 frm33 = new Form33();
             this.Hide();
-            frm20.Show();
+            frm33.Show();
         }
 
         private void button18_Click(object sender, EventArgs e)
@@ -211,6 +211,11 @@ namespace WindowsFormsApp4
             Form31 frm31 = new Form31();
             this.Hide();
             frm31.Show();
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
